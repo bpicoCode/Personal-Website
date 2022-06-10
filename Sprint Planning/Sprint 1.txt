@@ -1,0 +1,10 @@
+Backlog:
+PP03: Implement Basic Stucture of Front Page in HTML/CSS
+
+In-Progess:
+PP02: Set-Up GitHub
+	- Set up git to host your code repo on personal profile
+
+Completed:
+PP01: Design Mock-Up 1
+	- Create a design mock-up for the front page of your personal portfolio
